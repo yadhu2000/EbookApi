@@ -41,7 +41,7 @@ $ pip install django-cors-headers
 $ django-admin startprojectDangoApi
 ```
 Files in the project:
->__init__.py (Empty file indicates the given folder is a python project)
+* __init__.py (Empty file indicates the given folder is a python project)
 >asgi.py (Entry point to the asgi compatible webservers)
 >wsgi.py (Entry point to the wsgi compatible webservers)
 >Urls.py (Has all the url declaations needed for this project)
