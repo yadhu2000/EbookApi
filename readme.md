@@ -25,13 +25,13 @@ A list of softwares used in the project:
 
 ## Environmental Setup
 ***
->Install python and add it to PATH.
->Install Visual Studio Code.
->Install SQLite Studio.
+Install python and add it to PATH.
+Install Visual Studio Code.
+Install SQLite Studio.
 
 ## Creating Project
 ***
-###setting up the server
+### setting up the server
 ***
 We have to install some modules first.
 ```
