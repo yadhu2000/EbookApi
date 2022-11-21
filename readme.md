@@ -54,7 +54,7 @@ $ python manage.py runserver
 >Copy and paste the URL in the browser and press enter.
 >"The install worked successfully! Congratulations" message will be displayed.
 
-###Creating app
+### Creating app
 ***
 ```
 $ python manage.py startapp EbookApp
@@ -72,7 +72,7 @@ $ python.py migrate EbookApp
 >Tables will be created.
 >Write SQL query for selecting and instering records to and from the database.
 
-###CRUD OPerations
+### CRUD OPerations
 ***
 >Create serializers.py file inside EmployeeApp.
 >Import required modules.
@@ -114,12 +114,12 @@ def delete(self, request,_id=0, format=None):
 $ python manage.py runserver
 ```
 
-###Testing API in Postman
+### Testing API in Postman
 ***
 >Copy and paste the server URL.
 >Test GET,POST,PUT,DELETE method by sending request.
 
-###Authentication
+### Authentication
 ***
 >Import Authentication modules to serializers.py, urls.py, views.py.
 >Add serializer class for user in serializers.py.
@@ -141,7 +141,7 @@ $ python manage.py migrate
 $ python manage.py createsuperuser
 $ python manage.py runserver
 ```
-####Cheching Token Authentication
+#### Cheching Token Authentication
 ***
 >In Postman select POST method.
 >In form date add key as 'username' and 'password', Add previously created username and password to it.
