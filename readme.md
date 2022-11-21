@@ -19,9 +19,9 @@ user.
 ## Softwares Used
 ***
 A list of softwares used in the project:
-[Visual Studio Code](https://code.visualstudio.com/): Version 1.73.2
-[SQLiteStudio](https://sqlitestudio.pl/): Version 3.4.0
-[Postman](https://www.postman.com/): Version 10.3.5
+[Visual Studio Code](https://code.visualstudio.com/): Version 1.73.2,
+[SQLiteStudio](https://sqlitestudio.pl/): Version 3.4.0,
+[Postman](https://www.postman.com/): Version 10.3.5,
 
 ## Environmental Setup
 ***
